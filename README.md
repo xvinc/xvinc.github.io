@@ -1,3 +1,3 @@
 
 ## 个人主页
-https://xvinc.js.org
+https://xvinc.github.io
